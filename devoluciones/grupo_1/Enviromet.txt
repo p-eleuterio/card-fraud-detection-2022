@@ -1,0 +1,6 @@
+Versiones de trabajo Grupo 1
+Python Python 3.8.13
+matplolib  3.5.1
+seaborn 4.11.0
+numpy 4.11.0
+plotly 8.0.1
